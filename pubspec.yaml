@@ -12,13 +12,13 @@ flutter:
   fonts:
     - family: FontAwesomeBrands
       fonts:
-        - asset: assets/fa-brands-400.ttf
+        - asset: packages/font_awesome_flutter/assets/fa-brands-400.ttf
           weight: 400
     - family: FontAwesomeRegular
       fonts:
-        - asset: assets/fa-regular-400.ttf
+        - asset: packages/font_awesome_flutter/assets/fa-regular-400.ttf
           weight: 400
     - family: FontAwesomeSolid
       fonts:
-        - asset: assets/fa-solid-900.ttf
+        - asset: packages/font_awesome_flutter/assets/fa-solid-900.ttf
           weight: 900
