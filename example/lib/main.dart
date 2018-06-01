@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:font_awesome_flutter_example/icons.dart';
+import 'package:font_awesome_flutter_example/icons_map.dart';
 
 void main() {
   runApp(new FontAwesomeGalleryApp());

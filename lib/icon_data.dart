@@ -1,5 +1,3 @@
-library font_awesome_flutter;
-
 import 'package:flutter/widgets.dart';
 
 class IconDataBrands extends IconData {
